@@ -1,1 +1,0 @@
-things = ['mozzarella', 'cinderella', 'salmonella']
